@@ -1,0 +1,13 @@
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\bin\Release\IntegracoesVTEX.exe.config
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\bin\Release\IntegracoesVTEX.exe
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\bin\Release\IntegracoesVTEX.pdb
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\bin\Release\Newtonsoft.Json.dll
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\bin\Release\SAPBusinessOneSDK.dll
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\bin\Release\Newtonsoft.Json.xml
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\obj\Release\IntegracoesVTEX.csprojAssemblyReference.cache
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\obj\Release\IntegracoesVTEX.ProjectInstaller.resources
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\obj\Release\IntegracoesVTEX.csproj.GenerateResource.cache
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\obj\Release\IntegracoesVTEX.csproj.CoreCompileInputs.cache
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\obj\Release\IntegracoesVTEX.csproj.CopyComplete
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\obj\Release\IntegracoesVTEX.exe
+C:\Jeferson\VTEX\IntegracoesVTEX\IntegracoesVTEX\obj\Release\IntegracoesVTEX.pdb
